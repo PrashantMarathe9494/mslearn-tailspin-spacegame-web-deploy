@@ -6,10 +6,11 @@ variables:
   adminPassword: 'Password12'
   adminlogin: 'azuresql'
   databasename: 'tailspindatabase (tailspin-space-game-sql-321/tailspindatabase)'
-  servername: 'tailspin-space-game-sql-321.database.windows.net'
+  servername: 'tailspin-space-game-sql-321'
   WebAppNameDev: 'tailspin-space-game-web-dev-31411'
   WebAppNameStaging: 'tailspin-space-game-web-staging-31411'
   WebAppNameTest: 'tailspin-space-game-web-test-31411'
+	
 
 stages:
 - stage: 'Build'
