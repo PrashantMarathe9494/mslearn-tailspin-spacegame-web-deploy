@@ -5,7 +5,7 @@ variables:
   buildConfiguration: 'Release'
   adminPassword: 'Password12'
   adminlogin: 'azuresql'
-  databasename: 'tailspindatabase (tailspin-space-game-sql-321/tailspindatabase)'
+  databasename: 'tailspindatabase'
   servername: 'tailspin-space-game-sql-321'
   WebAppNameDev: 'tailspin-space-game-web-dev-31411'
   WebAppNameStaging: 'tailspin-space-game-web-staging-31411'
