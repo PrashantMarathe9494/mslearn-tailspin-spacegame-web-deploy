@@ -4,7 +4,6 @@ trigger:
 variables:
   buildConfiguration: 'Release'
   dotnetSdkVersion: '3.1.100'
-  SITE_URL: 'http://tailspin-space-game-web-dev-10529.azurewebsites.net'
 
 stages:
 - stage: 'Build'
